@@ -5,11 +5,12 @@ Welcome to the official repository for The Vault. This project was developed for
 Since our group shares an interest in gaming, we decided to design a mock-up of a digital gaming storefront, drawing inspiration from platforms like Steam.
 
 ---
+### Tools
 
-* **Jove N. Colacion Jr.** — Project Lead | UI/UX & Lead Programmer
 * **Gemini & Claude AI** — AI Assistance ( Debugging & Structure )
 
 ### Group Members
+* **Jove N. Colacion Jr.** — Project Lead | UI/UX & Lead Programmer
 * **Louie Jee Virayo** — Documentation & Papers | UI Reviewer
 * **Laureus Geneaux L. Rance** — Lead Reporter
 * **Pierre Andrei Tenasas** — Reporter
