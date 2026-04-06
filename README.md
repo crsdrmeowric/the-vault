@@ -7,7 +7,7 @@ Since our group shares an interest in gaming, we decided to design a mock-up of 
 ---
 
 * **Jove N. Colacion Jr.** — Project Lead | UI/UX & Lead Programmer
-* **Gemini & Claude AI ** — AI Assistance ( Debugging & Structure )
+* **Gemini & Claude AI** — AI Assistance ( Debugging & Structure )
 
 ### Group Members
 * **Louie Jee Virayo** — Documentation & Papers | UI Reviewer
